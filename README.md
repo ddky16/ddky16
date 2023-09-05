@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ddky16
-- 👀 I’m interested in Flutter, Vue js, and Game Development
-- 🌱 I’m currently learning Unity and Front-end
+- 👀 I’m interested in .NET Core and Game Development
+- 🌱 I’m currently learning Unity and .NET Core
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me 
+- 📫 How to reach me [X](https://twitter.com/widwickyy)
 
 <!---
 ddky16/ddky16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
